@@ -50,10 +50,6 @@ The main focus areas include:
 - Explore advanced kernel functions and multi-class SVM implementations.  
 - Incorporate deep learning theoretical frameworks in subsequent phases.
 
-## Contact
-
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
-
 ---
 
 **Note:** This repository is part of my ongoing research on theoretical frameworks in machine learning, with a focus on practical implementations and clear mathematical understanding.
